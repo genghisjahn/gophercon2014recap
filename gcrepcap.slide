@@ -1,0 +1,184 @@
+Hello, DevOps
+Gophercon 2014 Recap
+20 May 2014
+
+Jon Wear
+DramaFever.com
+@genghisjahn
+
+
+* We're gonna need a bigger conference room.
+
+Original guess on attendence was 300 or so.
+
+Interest was higher than anticipated.
+
+Capped at somewhere over 700.
+
+* Go has taken on a life of its own
+
+Community is very involved
+Windows port was done entirely by the community
+
+* It's in...
+the cloud...or what used to be called servers
+
+systems applications
+web applications
+
+* But also on
+embeded devices
+GoBots!  Go controlled quad copters
+desktop applications
+
+* Go is accessible
+You can read the entire spec in an evening.
+(It's 51 pages long)
+[[http://golang.org/ref/spec][http://golang.org/ref/spec]]
+
+
+Fantastic tutorial
+[[http://tour.golang.org/#1][http://tour.golang.org/#1]]
+
+* Go from 'hello world' to 'try & take over the world!'
+
+Take the tour, contribute to a project
+
+.image /gcrepcap/goaccessible.png
+
+* Thoughts on the first GopherCon
+
+It's worth it to go just to hear Rob Pike speak.
+[[http://talks.golang.org/2014/hellogophers.slide#8][http://talks.golang.org/2014/hellogophers]]
+
+* Talks you should watch
+
+Kelsey Hightower's - Go for Sys Admins 
+
+Best talk outside of the core team, maybe best overall.
+
+[[https://twitter.com/kelseyhightower/statuses/459485692972650496][Props from Pike]]
+
+* Talks you should watch
+
+Peter Bourgon Best Practices for Go Environments
+
+.image /gcrepcap/gobp.png
+
+[[http://picturesofpeoplescanningqrcodes.tumblr.com/][http://picturesofpeoplescanningqrcodes.tumblr.com/]]
+
+* Talks you should watch
+
+Josh Bellcher Snyder (@offbymany) - Embedded Go and Bluetooth Low Energy Hardware
+
+Program that ran on usb key.  Talked a lot about what can be down with BLE and "Crash First Programming"
+
+* Talks you should watch
+
+The people from gobot.io
+
+Golang powered robotics
+Ron Evans (@deadprogram) & Adrian Zankich (@adzankich)
+
+.image /gcrepcap/gobots.jpeg
+
+* Talks you should watch
+
+Gustavo Niemeyer Go QML Contest Winners
+Desktop applications written in Go using QML.
+
+* Desktop Applications
+
+2048 clone
+
+.image /gcrepcap/dt1.png
+
+* Desktop Applications
+
+Resource gathering game 
+
+.image /gcrepcap/dt2.png
+
+* Desktop Applications
+
+.image /gcrepcap/dt3.png
+
+* Talks from the Googlers
+
+Already mentioned Rob's talk was great
+
+* Talks from the Googlers
+
+Brad Fitzpatrick's - Camilstore & the standard library
+
+Entertaining/Informative
+
+He got started just hacking around, asking questions...
+...and ended up on the Go core team.
+
+* Talks from the Googlers
+
+Russ Cox - Go from C to Go
+
+He's been tasked with writing a compiler for Go, in Go.
+
+* Talks to watch
+
+Blake Mizernay - planned on Little Known Tricks Used in Go's stdlib
+
+Scrapped his talk and organized a panel discussion four core team members
+
+Highly recommended.
+
+.image /gcrepcap/coreteam.JPG
+
+
+* Hackday
+
+Lots of lighting talks.
+
+Core team worked one on one
+
+200 people stayed for the hack day
+
+.image /gcrepcap/hackday.png
+
+* Gophers have long tails
+
+The hastag & handle for the conference are still busy on twitter: 
+
+hash gophercon
+@gophercon
+
+* Gophers have long tails
+
+There's a slack channel for Go 
+
+[[http://blog.gopheracademy.com/gophers-slack-community][http://blog.gopheracademy.com/gophers-slack-community]]
+
+* Links, links links!
+
+Slides:
+[[http://bit.ly/goslides][http://bit.ly/goslides]]
+
+Videos:
+[[http://bit.ly/govideos][http://bit.ly/govideos]]
+
+Transcriptions:
+[[http://bit.ly/gotalks][http://bit.ly/gotalks]]
+
+* DramaFever is hiring!
+
+We helped sponsor GopherCon 2014.  Join our team and you just might find yourself at GopherCon 2015!
+
+.image /gcrepcap/df.png
+
+DramaFever is the largest online video site for the distribution of international televised content. We stream the world's best movies, documentaries and TV shows on demand with professional subtitles.
+
+
+
+
+
+
+
+
