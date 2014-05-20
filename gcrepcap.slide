@@ -44,11 +44,13 @@ Fantastic tutorial
 
 Take the tour, contribute to a project
 
+.image /gcrepcap/goaccessible.png
+
 * Don't fight, fmt!
 
 Let go fmt win your syntax arguments.  It's better for all involved.
 
-.image /gcrepcap/goaccessible.png
+
 
 * Thoughts on the first GopherCon
 
@@ -69,26 +71,29 @@ Peter Bourgon Best Practices for Go Environments
 
 .image /gcrepcap/gobp.png
 
-[[http://picturesofpeoplescanningqrcodes.tumblr.com/][http://picturesofpeoplescanningqrcodes.tumblr.com/]]
 
 * Talks you should watch
 
 Josh Bellcher Snyder (@offbymany) - Embedded Go and Bluetooth Low Energy Hardware
 
-Program that ran on usb key.  Talked a lot about what can be down with BLE and "Crash First Programming"
+Program that ran on usb key.  Talked about what can be done with BLE and "Crash First Programming"
 
 * Talks you should watch
 
-The people from gobot.io
+
 
 Golang powered robotics
+
+The people from gobot.io
 Ron Evans (@deadprogram) & Adrian Zankich (@adzankich)
 
 .image /gcrepcap/gobots.jpeg
 
 * Talks you should watch
 
-Gustavo Niemeyer Go QML Contest Winners
+Gustavo Niemeyer - Go QML Contest Winners
+@gniemeyer
+
 Desktop applications written in Go using QML.
 
 * Desktop Applications
@@ -96,6 +101,8 @@ Desktop applications written in Go using QML.
 2048 clone
 
 .image /gcrepcap/dt1.png
+
+This image doesn't look like much, but watch the video.
 
 * Desktop Applications
 
@@ -114,8 +121,6 @@ Already mentioned Rob's talk was great
 * Talks from the Googlers
 
 Brad Fitzpatrick's - Camilstore & the standard library
-
-Entertaining/Informative
 
 He got started just hacking around, asking questions...
 ...and ended up on the Go core team.
