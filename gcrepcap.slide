@@ -44,6 +44,10 @@ Fantastic tutorial
 
 Take the tour, contribute to a project
 
+* Don't fight, fmt!
+
+Let go fmt win your syntax arguments.  It's better for all involved.
+
 .image /gcrepcap/goaccessible.png
 
 * Thoughts on the first GopherCon
@@ -57,7 +61,7 @@ Kelsey Hightower's - Go for Sys Admins
 
 Best talk outside of the core team, maybe best overall.
 
-[[https://twitter.com/kelseyhightower/statuses/459485692972650496][Props from Pike]]
+.image /gcrepcap/pikeprops.png
 
 * Talks you should watch
 
