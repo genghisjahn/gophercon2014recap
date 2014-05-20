@@ -133,6 +133,8 @@ Russ Cox - Go from C to Go
 
 He's been tasked with writing a compiler for Go, in Go.
 
+Involves automatically converting a huge code base from C to Go.
+
 * Talks to watch
 
 Blake Mizernay - planned on Little Known Tricks Used in Go's stdlib
