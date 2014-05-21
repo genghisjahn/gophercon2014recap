@@ -9,7 +9,7 @@ DramaFever.com
 
 * We're gonna need a bigger conference room.
 
-.image /gcrepcap/bigger-boat.jpg
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/bigger-boat.jpg
 
 Original guess on attendence was 300 or so.
 
@@ -46,7 +46,7 @@ Fantastic tutorial
 
 Take the tour, contribute to a project
 
-.image /gcrepcap/goaccessible.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/goaccessible.png
 
 * Don't fight, fmt!
 
@@ -65,13 +65,13 @@ Kelsey Hightower's - Go for Sys Admins
 
 Best talk outside of the core team, maybe best overall.
 
-.image /gcrepcap/pikeprops.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/pikeprops.png
 
 * Talks you should watch
 
 Peter Bourgon Best Practices for Go Environments
 
-.image /gcrepcap/gobp.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/gobp.png
 
 
 * Talks you should watch
@@ -102,7 +102,7 @@ Desktop applications written in Go using QML.
 
 2048 clone
 
-.image /gcrepcap/dt1.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/dt1.png
 
 This image doesn't look like much, but watch the video.
 
@@ -110,11 +110,11 @@ This image doesn't look like much, but watch the video.
 
 Resource gathering game
 
-.image /gcrepcap/dt2.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/dt2.png
 
 * Desktop Applications
 
-.image /gcrepcap/dt3.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/dt3.png
 
 * Talks from the Googlers
 
@@ -143,7 +143,7 @@ Scrapped his talk and organized a panel discussion with four core team members
 
 Highly recommended.
 
-.image /gcrepcap/coreteam.JPG
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/coreteam.JPG
 
 
 * Hackday
@@ -154,7 +154,7 @@ Core team worked one on one
 
 200 people stayed for the hack day
 
-.image /gcrepcap/hackday.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/hackday.png
 
 * Gophers have long tails
 
@@ -188,6 +188,6 @@ Slides for this talk:
 
 We helped sponsor GopherCon 2014.  Join our team and you just might find yourself at GopherCon 2015!
 
-.image /gcrepcap/df.png
+.image https://raw.githubusercontent.com/genghisjahn/gophercon2014recap/master/gcrepcap/df.png
 
 DramaFever is the largest online video site for the distribution of international televised content. We stream the world's best movies, documentaries and TV shows on demand with professional subtitles.
